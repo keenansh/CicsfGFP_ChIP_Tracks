@@ -1,3 +1,4 @@
+track type=bed name=q0.01_input description=CicsfGFP_peaks_to_input_0.01_ color=0,0,250
 chr3R	4348111	4348940	CicsfGFP_to_OreR_q0.01_nomodel_peak_288	2698	.
 chr3R	30851661	30852585	CicsfGFP_to_OreR_q0.01_nomodel_peak_397	2687	.
 chr3R	13293256	13293787	CicsfGFP_to_OreR_q0.01_nomodel_peak_331	2095	.
