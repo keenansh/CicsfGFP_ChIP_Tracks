@@ -20,3 +20,7 @@ track type=bigWig name=cicsfGFP_ChIP3 description=cicsfGFPt_ChIP_rep3 autoScale=
 browser position chr3R:30841574-30867734
 
 track type=bigWig name=cicsfGFP_Input3 description=cicsfGFP_Input_rep3 autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=0,139,69 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/CicsfGFP_ChIP_Tracks/blob/master/cicsfGFP.Input.rep3.bigWig?raw=true
+
+browser position chr3R:30841574-30867734
+
+https://github.com/keenansh/CicsfGFP_ChIP_Tracks/blob/master/CicsfGFP_to_OreR_q0.01_nomodel.narrowPeak.UCSC?raw=true
